@@ -89,9 +89,10 @@ ul.social-media-list a:hover {
 }
 
 .zone-c1 {
-    color: #cdc048;
+    color: #dddddd;
     font-size: 25px;
     font-weight: bold;
+    -webkit-text-stroke: #000000 1px;
     text-shadow: #000000 2px 0 2px;
     position: absolute;
     top: 50%;
