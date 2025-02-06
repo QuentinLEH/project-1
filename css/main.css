@@ -3,11 +3,11 @@ html {
 }
 
 a:focus-visible {
-    border: 5px solid #cdc048;
+    border: 5px solid #468847;
 }
 
 a:hover {
-    color: #cdc048;
+    color: #468847;
 }
 
 body {
@@ -20,7 +20,7 @@ body {
 }
 
 a {
-    color: #059c00;
+    color: #0468847;
     text-decoration: underline;
 }
 
@@ -92,7 +92,7 @@ ul.social-media-list a:hover {
     color: #468847;
     font-size: 25px;
     font-weight: bold;
-    -webkit-text-stroke: #000000 1px;
+    -webkit-text-stroke: #000000 1.5px;
     text-shadow: #000000 2px 0 2px;
     position: absolute;
     top: 50%;
