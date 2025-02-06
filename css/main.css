@@ -89,7 +89,7 @@ ul.social-media-list a:hover {
 }
 
 .zone-c1 {
-    color: #dddddd;
+    color: #468847;
     font-size: 25px;
     font-weight: bold;
     -webkit-text-stroke: #000000 1px;
@@ -169,12 +169,17 @@ ul.social-media-list a:hover {
     background: none;
 }
 
-.li-list {
+.tittle-list {
     font-size: 16px;
     font-weight: 700;
     text-decoration: underline;
+    margin-bottom: 4px;
 }
 
 .p-list {
     margin-top: 2px;
 }
+
+ol > li::marker {
+    font-weight: bold;
+  }
