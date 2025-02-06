@@ -3,11 +3,11 @@ html {
 }
 
 a:focus-visible {
-    border: 5px solid #059c00;
+    border: 5px solid #cdc048;
 }
 
 a:hover {
-    color: #059c00;
+    color: #cdc048;
 }
 
 body {
@@ -89,9 +89,9 @@ ul.social-media-list a:hover {
 }
 
 .zone-c1 {
-    color: #dddddd;
+    color: #cdc048;
     font-size: 25px;
-    text-shadow: #000000 6px 0 16px;
+    text-shadow: #000000 2px 0 2px;
     position: absolute;
     top: 50%;
     left: 50%;
